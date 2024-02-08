@@ -23,12 +23,15 @@ This has 4 main parts :
         f)Latest Songs section
    3)Aside Section - This conists of similar artist and recently played songs.
    4)Bottom Music Player(footer)
+     ![home page](https://github.com/Snehal9146/Music-Player-Coding-Ninjas/assets/95754301/5173444e-4e3b-4860-9d4d-ed389d5da970)
+
 
 B) MusicPlayerStyle.css :
     1)Navigation bar - Which contains the logo, search bar , user image etc.
     2) Main Section - This section contains all about artist (introduction , followers , songs) etc.
     3)Aside Section - This conists of the queue of songs.
     4)Bottom Music Player(footer)
+![playlist](https://github.com/Snehal9146/Music-Player-Coding-Ninjas/assets/95754301/c69262cc-862b-4c62-8fa9-6adf6fdcc5c5)
 
 
 Proper responsiveness have been added to both the pages.
